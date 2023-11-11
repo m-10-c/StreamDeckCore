@@ -55,7 +55,7 @@ public class StreamDeckDevices {
 	
 	public static final int VENDOR_ID = 4057;
 	
-	public static final int PRODUCT_ID = 96;
+	public static final int PRODUCT_ID = 128;
 
 	private static List<HidDeviceInfo> deckInfos = null;
 
